@@ -1,0 +1,10 @@
+A cycle is a special two wheel transportation machinery that is powered by humans. Its basic components include
+1. A revolving handle to direct it into a particular direction.
+2. A seat to sit on while cycling.
+3. Two wheels, front and rear.
+4. A pair of peddles.
+5. Gears along with chain and breaking system.
+6. Optinally a carieer or a basket or both to carry stuff.
+7. Mud gards covering the wheels.
+
+
