@@ -1,0 +1,3 @@
+[submodule "wheels"]
+	path = wheels
+	url = git@github.com:ihak/wheels.git
